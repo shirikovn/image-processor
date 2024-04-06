@@ -25,6 +25,7 @@ You can use as many filters as you want.
 
 ## List of available filters and their params:
 
+```sh
 -crop {wigth} {hieght}: crop image to given size
 
 -neg: negative image
@@ -38,6 +39,7 @@ You can use as many filters as you want.
 -blur: {param}: Gaussian blur with sigma = param
 
 -chess-br {koef} {size}: Make chess-like brightning with size of cell = size
+```
 
 ## How to build
 
