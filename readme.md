@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://github.com/shirikovn/image-processor/blob/main/.github/assets/image-processor-high-resolution-logo-transparent.png" alt="image-processor" width="400">
+  <img src="https://github.com/shirikovn/image-processor/assets/91596934/5d505a28-5672-49c8-b866-fe78b3aebc3f" alt="image-processor" width="600">
   <h3 align="center">Simple filters for your bitmap images.</h3>
 </div>
-
 
 ## About the project
 | original image     | gaussian blur      |
