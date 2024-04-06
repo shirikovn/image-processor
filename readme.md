@@ -26,19 +26,19 @@ You can use as many filters as you want.
 ## List of available filters and their params:
 
 ```sh
--crop {wigth} {hieght}: crop image to given size
+-crop {wigth} {hieght} # crop image to given size
 
--neg: negative image
+-neg # negative image
 
--sharp: make image sharper
+-sharp # make image sharper
 
--gs: convert image to grey shades
+-gs # convert image to grey shades
 
--edge: {param}: detect edges (pixels that are bigger than param[0-1])
+-edge {param} # detect edges (pixels that are bigger than param [0-1] )
 
--blur: {param}: Gaussian blur with sigma = param
+-blur {param} #Gaussian blur with sigma = param
 
--chess-br {koef} {size}: Make chess-like brightning with size of cell = size
+-chess-br {koef} {size} # Make chess-like brightning with size of cell = size
 ```
 
 ## How to build
