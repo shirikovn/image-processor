@@ -6,7 +6,7 @@
 ## About the project
 | original image     | gaussian blur      |
 |------------|-------------|
-|![MARBLES](https://github.com/shirikovn/image-processor/assets/91596934/d9700c5f-94df-425a-aa1e-80697427cb6f)|![Product Name Screen Shot](.github/assets/marbels.png)|
+|![MARBLES](https://github.com/shirikovn/image-processor/assets/91596934/d9700c5f-94df-425a-aa1e-80697427cb6f)|![Product Name Screen Shot](https://github.com/shirikovn/image-processor/blob/main/.github/assets/marbels.png)|
 
 This project was made as final project for C++ course in HSE.
 
